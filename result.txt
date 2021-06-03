@@ -1,0 +1,34 @@
+1 задание
+
+mkdir linuxTask
+
+2 задание
+
+touch test testFile fileForTest testo Test-Testovich.bio
+
+rm *test*
+
+3 задание
+
+ln -s ../../../bin/pwd linkPwd
+./linkPwd
+
+4 задание
+
+mkdir important
+touch 1 2 12 123 txt
+mv ??? important/
+
+5 задание
+
+env | grep LC > text.txt
+
+6 задание
+
+locate code >> text.txt
+
+7 задание
+
+touch startStream
+echo "mpv udp://224.0.0.1:9999" > startStream
+chmod a=x startStream
